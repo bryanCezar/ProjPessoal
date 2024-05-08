@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(body.css);
+@import url(main.css);
+@import url(footer.css);
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+
+body{
+    background-color: #0E1111;
+    font-family: "Six Caps", sans-serif;
+}

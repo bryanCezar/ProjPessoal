@@ -1,0 +1,129 @@
+main {
+    font-family: "Six Caps", sans-serif;
+    color: #FEFAF6;
+    justify-content: center;
+    text-align: center;
+}
+
+#banner {
+    margin-left: 410px;
+}
+
+#sobreocanal {
+    margin-right: 300px;
+}
+
+section h1 {
+    margin-right: 300px;
+    display: flex;
+}
+
+main div {
+    margin-top: 30px;
+}
+
+#sobreOCanal {
+    display: flex;
+}
+
+
+
+.osMembros {
+    background-color: #4e4c49;
+    border-radius: 30px;
+    height: 1550px;
+}
+
+.membros {
+    display: block;
+    justify-content: left;
+    background-color: rgb(22, 22, 22);
+    border-radius: 30px;
+    font-weight: 300;
+    height: 230px;
+}
+
+#jeandiv {
+    height: 230px;
+}
+
+main img {
+
+    margin-right: 500px;
+    margin-left: 100px;
+}
+
+main h1 {
+    font-weight: 100;
+    margin-top: 0px;
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+
+section {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: block;
+}
+
+main p {
+    text-align: center;
+    font-size: 40px;
+    display: flex;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    justify-content: center;
+
+}
+
+.membrosImg {
+    float: left;
+    margin: 15px 0px 30px 20px;
+    height: 200px;
+    width: 200px;
+    border: solid 3px #ff0000;
+    border-radius: 30px;
+    
+
+}
+
+#jean {
+    padding-top: 40px;
+}
+
+#biffe {
+    padding-top: 30px;
+}
+
+#sobreconvidados {
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#sobrehawk {
+    padding-top: 50px;
+}
+#sobresan {
+    padding-top: 50px;
+}
+#sobregigaton{
+    padding-top: 50px;
+}
+#sobrefoxy{
+   padding-top: 50px;
+}
+#sobresnowy{
+    padding-top: 50px;
+}
+#sobremomentossec{
+    margin-top: 50px;
+}
+.ajuste{
+    padding-top: 50px;
+}
+#encerramentodiv{
+    margin-top: 600px;
+}
